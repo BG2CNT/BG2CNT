@@ -1,2 +1,2 @@
 ### Hi :)
-I'm BG2CNT... I mostly work now on "Azair".
+I'm BG2CNT... I mostly work now on *Azair*.
